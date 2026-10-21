@@ -1,6 +1,6 @@
 # 🛋️ E-commerce Sales Analytics | BigQuery SQL + Python + Tableau
 
-**[▶ Open the Tableau dashboard](https://public.tableau.com/app/profile/taras.kubitskyi/viz/E-commerceSalesAnalyticsPortfolioProject/Overview)** · **[Notebook](Portfolio_Project_1___E_commerce_Sales_Analytics_v3.ipynb)**
+**[▶ Open the Tableau dashboard](https://public.tableau.com/app/profile/taras.kubitskyi/viz/E-commerceSalesAnalyticsPortfolioProject/Overview)** · **[Notebook](ecommerce_sales_analytics.ipynb)**
 
 ## 🔍 Project Overview
 
