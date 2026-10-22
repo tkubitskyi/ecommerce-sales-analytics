@@ -34,10 +34,10 @@ Two SQL queries build two analytical tables:
 
 - **Strong dependence on one market.** The Americas generate ~55% of sales ($17.7M); the US alone ($13.9M) sells more than Asia and Europe combined ($13.5M).
 - **Seating and sleeping furniture drive the business.** Sofas & armchairs, Chairs and Beds are the top 3 categories in every major country.
-- **December peak.** Comparing sales per day (months have different numbers of days in the data): December ~$401K/day, +21% vs. November and +12% vs. January, with the peak on 7–20 December. January stays above November (~$357K vs. ~$330K per day).
-- **Weekdays sell more.** An average weekend day brings ~30% less revenue than a weekday; Tuesday and Wednesday are the strongest days.
+- **December peak.** Comparing sales per day (months have different numbers of days in the data): December ~ $401K/day, +21% vs. November and +12% vs. January, with the peak on 7–20 December. January stays above November (~ $357K vs. ~ $330K per day).
+- **Weekdays sell more.** An average weekend day brings ~ 30% less revenue than a weekday; Tuesday and Wednesday are the strongest days.
 - **Traffic is a good leading indicator.** Daily sessions and daily sales correlate at r = 0.93.
-- **Conversion is ~10% and fairly similar across large markets.** Among 38 countries with 1,000+ sessions, differences are small but real (χ², p = 0.027). Pakistan stands out at 12.4%, which is a hypothesis to validate rather than a conclusion.
+- **Conversion is ~ 10% and fairly similar across large markets.** Among 38 countries with 1,000+ sessions, differences are small but real (χ², p = 0.027). Pakistan stands out at 12.4%, which is a hypothesis to validate rather than a conclusion.
 - **Organic Search is the largest channel** (35.8% of sales), followed by Paid Search (26.6%) and Direct (23.4%). Channel ROI cannot be assessed without marketing spend data.
 - **Desktop brings 59% of sales**, mobile 39%; Chrome and Safari together account for 91.8%.
 
